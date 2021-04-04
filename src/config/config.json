@@ -1,0 +1,5 @@
+{
+  "apiEndPoint" : "http://localhost:5001/api/",
+  "loggingDsn": "https://cd5b8f16a81c47be848ac90c7bca7264@o564071.ingest.sentry.io/5704613",
+  "loggingTracesSampleRate": 1.0
+}
